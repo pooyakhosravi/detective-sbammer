@@ -1,2 +1,4 @@
 # thenewrandom
-The new RanDom
+
+To install, follow the steps:
+

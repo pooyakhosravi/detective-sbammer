@@ -1,0 +1,17 @@
+runtime: python37
+
+handlers:
+- url: /static
+  static_dir: static
+- url: /.*
+  script: main.app
+
+libraries:
+- name: Flask
+- name: click
+- name: gunicorn
+- name: pytz
+- name: requests
+- name: Werkzeug
+- name: keras
+- name: tensorflow

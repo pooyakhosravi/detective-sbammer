@@ -7,4 +7,6 @@ MarkupSafe
 pytz
 requests
 Werkzeug
+tensorflow
+keras
 
